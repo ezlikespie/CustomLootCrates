@@ -1,0 +1,5 @@
+name: CustomLootCrates
+version: 1.0.0
+main: me.ezlikespie.Main
+author: ezlikespie
+api-version: 1.13
