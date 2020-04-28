@@ -1,2 +1,2 @@
 # CustomLootCrates
-Adds custom loot crates for Minecraft 1.13
+Adds the ability to create custom loot crates and keys for Minecraft 1.13
